@@ -28,9 +28,9 @@
     //TODO: Update the values for $host, $user, $pwd, and $db
     //using the values you retrieved earlier from the portal.
     $host = "us-cdbr-azure-west-c.cloudapp.net";
-    $user = "bcffd7c50b84a2";
-    $pwd = "4ea906a5";
-    $db = "bmis489db";
+    $user = "b411a3239c5914";
+    $pwd = "7aee971d";
+    $db = "bmisacsm_ac58c273e12d294489db";
 
     // Connect to database.
     try {
