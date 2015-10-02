@@ -1,3 +1,5 @@
+//sample BMIS489 php files
+
 <html>
 <head>
 <Title>Registration Form</Title>
